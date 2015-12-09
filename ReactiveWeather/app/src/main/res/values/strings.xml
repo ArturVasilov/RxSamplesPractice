@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ReactiveWeather</string>
+    <string name="action_settings">Settings</string>
+    <string name="temperature">Температура: %1$s\u2103</string>
+</resources>
