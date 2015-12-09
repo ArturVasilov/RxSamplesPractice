@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ParallelRequests</string>
+
+    <string name="auth_request">Auth request</string>
+    <string name="config_request">Config request</string>
+    <string name="friends_request">Friends request</string>
+    <string name="posts_request">Posts request</string>
+    <string name="groups_request">Groups request</string>
+    <string name="messages_request">Messages request</string>
+    <string name="photos_request">Photos request</string>
+</resources>
